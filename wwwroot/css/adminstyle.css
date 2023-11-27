@@ -1,0 +1,35 @@
+﻿body {
+
+
+
+}
+.log{
+margin-top:-116px;
+margin-left:80px;
+}
+.link-an{
+    width:100%;
+    text-align:center;
+    padding:10px;
+    margin-left:70px;
+    
+}
+.AA-B{
+    text-align:center;
+    margin-top:10px;
+    font-size:20px ;
+}
+a{
+    text-decoration:none;
+    font-family:Cambria;
+}
+.page-body {
+    width: 100%;
+    padding: 200px;
+    font-size: 40px;
+    font-family: Cambria;
+    text-align:center
+}
+.main-nav-link {
+    text-decoration: none;
+}

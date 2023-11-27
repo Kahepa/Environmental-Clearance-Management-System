@@ -1,0 +1,131 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Environmental_Clreance_MGT
+build_property.RootNamespace = Environmental_Clreance_MGT
+build_property.ProjectDir = C:\Users\M NJERIC\Documents\Visual Studio 2022\Environmental_Clreance_MGT\Environmental_Clreance_MGT\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\M NJERIC\Documents\Visual Studio 2022\Environmental_Clreance_MGT\Environmental_Clreance_MGT
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/M NJERIC/Documents/Visual Studio 2022/Environmental_Clreance_MGT/Environmental_Clreance_MGT/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M NJERIC/Documents/Visual Studio 2022/Environmental_Clreance_MGT/Environmental_Clreance_MGT/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M NJERIC/Documents/Visual Studio 2022/Environmental_Clreance_MGT/Environmental_Clreance_MGT/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M NJERIC/Documents/Visual Studio 2022/Environmental_Clreance_MGT/Environmental_Clreance_MGT/Pages/REMA/Applicant/adminDash.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUkVNQVxBcHBsaWNhbnRcYWRtaW5EYXNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M NJERIC/Documents/Visual Studio 2022/Environmental_Clreance_MGT/Environmental_Clreance_MGT/Pages/REMA/Applicant/applicantDash.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUkVNQVxBcHBsaWNhbnRcYXBwbGljYW50RGFzaC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M NJERIC/Documents/Visual Studio 2022/Environmental_Clreance_MGT/Environmental_Clreance_MGT/Pages/REMA/Applicant/ApplicantReq.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUkVNQVxBcHBsaWNhbnRcQXBwbGljYW50UmVxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M NJERIC/Documents/Visual Studio 2022/Environmental_Clreance_MGT/Environmental_Clreance_MGT/Pages/REMA/Applicant/contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUkVNQVxBcHBsaWNhbnRcY29udGFjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M NJERIC/Documents/Visual Studio 2022/Environmental_Clreance_MGT/Environmental_Clreance_MGT/Pages/REMA/Applicant/customerLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUkVNQVxBcHBsaWNhbnRcY3VzdG9tZXJMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M NJERIC/Documents/Visual Studio 2022/Environmental_Clreance_MGT/Environmental_Clreance_MGT/Pages/REMA/Applicant/DashBord.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUkVNQVxBcHBsaWNhbnRcRGFzaEJvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M NJERIC/Documents/Visual Studio 2022/Environmental_Clreance_MGT/Environmental_Clreance_MGT/Pages/REMA/Applicant/home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUkVNQVxBcHBsaWNhbnRcaG9tZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M NJERIC/Documents/Visual Studio 2022/Environmental_Clreance_MGT/Environmental_Clreance_MGT/Pages/REMA/Applicant/login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUkVNQVxBcHBsaWNhbnRcbG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M NJERIC/Documents/Visual Studio 2022/Environmental_Clreance_MGT/Environmental_Clreance_MGT/Pages/REMA/Applicant/request.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUkVNQVxBcHBsaWNhbnRccmVxdWVzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M NJERIC/Documents/Visual Studio 2022/Environmental_Clreance_MGT/Environmental_Clreance_MGT/Pages/REMA/Applicant/Signup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUkVNQVxBcHBsaWNhbnRcU2lnbnVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M NJERIC/Documents/Visual Studio 2022/Environmental_Clreance_MGT/Environmental_Clreance_MGT/Pages/REMA/Staff/AssessorDash.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUkVNQVxTdGFmZlxBc3Nlc3NvckRhc2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M NJERIC/Documents/Visual Studio 2022/Environmental_Clreance_MGT/Environmental_Clreance_MGT/Pages/REMA/Staff/assessorreport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUkVNQVxTdGFmZlxhc3Nlc3NvcnJlcG9ydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M NJERIC/Documents/Visual Studio 2022/Environmental_Clreance_MGT/Environmental_Clreance_MGT/Pages/REMA/Staff/assignTasktoassessor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUkVNQVxTdGFmZlxhc3NpZ25UYXNrdG9hc3Nlc3Nvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M NJERIC/Documents/Visual Studio 2022/Environmental_Clreance_MGT/Environmental_Clreance_MGT/Pages/REMA/Staff/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUkVNQVxTdGFmZlxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M NJERIC/Documents/Visual Studio 2022/Environmental_Clreance_MGT/Environmental_Clreance_MGT/Pages/REMA/Staff/Reviewerdash.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUkVNQVxTdGFmZlxSZXZpZXdlcmRhc2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M NJERIC/Documents/Visual Studio 2022/Environmental_Clreance_MGT/Environmental_Clreance_MGT/Pages/REMA/Staff/StaffRegister.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUkVNQVxTdGFmZlxTdGFmZlJlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M NJERIC/Documents/Visual Studio 2022/Environmental_Clreance_MGT/Environmental_Clreance_MGT/Pages/REMA/Staff/Updatestaff.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUkVNQVxTdGFmZlxVcGRhdGVzdGFmZi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M NJERIC/Documents/Visual Studio 2022/Environmental_Clreance_MGT/Environmental_Clreance_MGT/Pages/REMA/Staff/Viewrequest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUkVNQVxTdGFmZlxWaWV3cmVxdWVzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M NJERIC/Documents/Visual Studio 2022/Environmental_Clreance_MGT/Environmental_Clreance_MGT/Pages/REMA/Staff/ViewWorker.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUkVNQVxTdGFmZlxWaWV3V29ya2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M NJERIC/Documents/Visual Studio 2022/Environmental_Clreance_MGT/Environmental_Clreance_MGT/Pages/REMA/Staff/workerRegisteration.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUkVNQVxTdGFmZlx3b3JrZXJSZWdpc3RlcmF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M NJERIC/Documents/Visual Studio 2022/Environmental_Clreance_MGT/Environmental_Clreance_MGT/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M NJERIC/Documents/Visual Studio 2022/Environmental_Clreance_MGT/Environmental_Clreance_MGT/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M NJERIC/Documents/Visual Studio 2022/Environmental_Clreance_MGT/Environmental_Clreance_MGT/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M NJERIC/Documents/Visual Studio 2022/Environmental_Clreance_MGT/Environmental_Clreance_MGT/Pages/Shared/LoginAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXExvZ2luQWRtaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-n5aqnv5ahw
+
+[C:/Users/M NJERIC/Documents/Visual Studio 2022/Environmental_Clreance_MGT/Environmental_Clreance_MGT/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-qma7ah9a07

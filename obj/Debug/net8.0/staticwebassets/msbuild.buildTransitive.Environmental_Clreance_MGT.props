@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Environmental_Clreance_MGT.props" />
+</Project>

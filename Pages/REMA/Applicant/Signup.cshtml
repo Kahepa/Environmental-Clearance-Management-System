@@ -1,0 +1,61 @@
+﻿@page
+@model Environmental_Clreance_MGT.Pages.REMA.Applicant.SignupModel
+@{
+    Layout = "";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Environmental_Clreance_MGT</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Environmental_Clreance_MGT.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/Style.css" asp-append-version="true" />
+    
+</head>
+
+<body>
+
+    <article >
+        <div class="container-sm border-1 w-50" id="con-1" >
+        <div class="text-center">
+            <h1 class="text-primary">Registration form</h1>
+        </div>
+           
+        <div class="row justify-content-center m-2 my-5">
+                <div class="col-lg-6" >
+                 <form  method="POST" id="new-info">
+                 <input type="text" class="form-control text-primary my-1" placeholder="First name" name="Firstname">
+                 <input type="text" class="form-control text-primary my-1" placeholder="Last name" name="Lastname">
+                 <input type="email" class="form-control text-primary my-1" placeholder="Email" name="email">
+                 <input type="number" class="form-control text-primary my-1" placeholder="Phone Number" name="phone">
+                 <input type="password" class="form-control text-primary my-1" placeholder="password" name="password">
+                 <input type="password" class="form-control text-primary my-1" placeholder="conform password" name="confrimpassword">
+                 <div class="text-center m-2 p-3">
+                    <button type="submit" class="btn btn-info">Register</button>
+                    <button class="btn btn-danger">Cancel</button>
+                </div>
+                </form>
+            </div>
+        </div>
+            @if (Model.message.Length > 0)
+            {
+                <div style="height:30px; text-align:center; background-color:antiquewhite;font-size:17px; color:brown;  font-family:'Cascadia Code';" role="alert">
+                    <strong>@Model.message</strong>
+                </div>
+            }
+        </div>
+
+    </article>
+
+
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+
+</body>
+</html>

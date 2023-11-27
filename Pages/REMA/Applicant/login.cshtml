@@ -1,0 +1,58 @@
+﻿@page
+@model loginModel
+@{
+    Layout = "";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Environmental_Clreance_MGT</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Environmental_Clreance_MGT.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/Style.css" asp-append-version="true" />
+</head>
+
+<body>
+   
+    <article>
+        <div class="container-sm border-1 w-50" id="con-1">
+            <div class="text-center">
+                <h1 class="text-primary">Login</h1>
+            </div>
+            <div class="row justify-content-center m-2 my-5">
+                <div class="col-lg-6">
+                    <form method="POST"  id="new-info" >
+                        
+                        <input type="email" class="form-control text-primary my-1" placeholder="email" name="email">
+                        <input type="password" class="form-control text-primary my-1" placeholder="password" name="password">
+                        
+                        <div class="text-center m-2">
+                            <button class="btn btn-info">Login</button>
+                        </div>
+                    </form>
+                    @if (Model.message.Length > 0)
+                    {
+                        <div role="alert" style="height:30px; background-color:antiquewhite;font-size:17px; color:brown; text-align:center;  font-family:'Book Antiqua';">
+                            <strong>@Model.message</strong>
+
+                        </div>
+                    }
+                </div>
+                
+            </div>
+        </div>
+    </article>
+
+
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    
+</body>
+</html>

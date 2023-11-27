@@ -1,0 +1,63 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(90deg, rgba(0,184,15,1) 0%, rgba(202,228,54,1) 35%, rgba(0,89,255,1) 100%);
+    font-family: 'poppins', sans-serif;
+    font-size:30px;
+}
+
+form {
+    width: 24%;
+    background-color: white;
+    padding: 50px;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+
+.btn-primary {
+    width: 100%;
+    border: none;
+    border-radius: 10px;
+    height:50px;
+    background: linear-gradient(90deg, rgba(0,184,15,1) 0%, rgba(202,228,54,1) 35%, rgba(0,89,255,1) 100%);
+}
+
+.form-control {
+    color: rgba(0,0,0,.87);
+    border-bottom-color: rgba(0,0,0,.87);
+    box-shadow: none;
+    border: none;
+    border-bottom: 1px solid;
+    border-radius: 4px 4px 0 0;
+}
+
+.form-select {
+    color: rgba(0,0,0,.87);
+    border-bottom-color: rgba(0,0,0,.87);
+    box-shadow: none;
+    border: none;
+    border-bottom: 1px solid;
+    border-radius: 4px 4px 0 0;
+}
+
+h4 {
+    font-size: 2rem !important;
+    font-weight: 700;
+    color: rgba(0,89,255,1);
+}
+
+.form-label {
+    font-family: 800 !important;
+}
+
+@media only screen and (max-width:600px) {
+    form {
+        width: 100% !important;
+    }
+}

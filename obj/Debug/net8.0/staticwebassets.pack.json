@@ -1,0 +1,409 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Environmental_Clreance_MGT.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Environmental_Clreance_MGT.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\Mount-Mikeno-750x450.jpg",
+      "PackagePath": "staticwebassets\\Mount-Mikeno-750x450.jpg"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\NYANDUNGU-IMAGE-2.png",
+      "PackagePath": "staticwebassets\\NYANDUNGU-IMAGE-2.png"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\Rwanda.jpeg",
+      "PackagePath": "staticwebassets\\Rwanda.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\Swamp1.jpg",
+      "PackagePath": "staticwebassets\\Swamp1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\cityzen.jpg",
+      "PackagePath": "staticwebassets\\cityzen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\contact.jpg",
+      "PackagePath": "staticwebassets\\contact.jpg"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\contact1.jpeg",
+      "PackagePath": "staticwebassets\\contact1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\css\\ApplicantReq.css",
+      "PackagePath": "staticwebassets\\css\\ApplicantReq.css"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\css\\Dash.css",
+      "PackagePath": "staticwebassets\\css\\Dash.css"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\css\\StaffLog.css",
+      "PackagePath": "staticwebassets\\css\\StaffLog.css"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\css\\StaffReg.css",
+      "PackagePath": "staticwebassets\\css\\StaffReg.css"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\css\\Style.cs",
+      "PackagePath": "staticwebassets\\css\\Style.cs"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\css\\Style.css",
+      "PackagePath": "staticwebassets\\css\\Style.css"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\css\\adminstyle.css",
+      "PackagePath": "staticwebassets\\css\\adminstyle.css"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\css\\queries.css",
+      "PackagePath": "staticwebassets\\css\\queries.css"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\css\\stafflog.cs",
+      "PackagePath": "staticwebassets\\css\\stafflog.cs"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\download.jpeg",
+      "PackagePath": "staticwebassets\\download.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\download2.jpeg",
+      "PackagePath": "staticwebassets\\download2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\download3.jpeg",
+      "PackagePath": "staticwebassets\\download3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\forest.jpg",
+      "PackagePath": "staticwebassets\\forest.jpg"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\forest2.jpg",
+      "PackagePath": "staticwebassets\\forest2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\images (1).jpeg",
+      "PackagePath": "staticwebassets\\images (1).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\images.jpeg",
+      "PackagePath": "staticwebassets\\images.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\images3.jpeg",
+      "PackagePath": "staticwebassets\\images3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\images4.jpeg",
+      "PackagePath": "staticwebassets\\images4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\img.jpeg",
+      "PackagePath": "staticwebassets\\img.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\js\\Script.js",
+      "PackagePath": "staticwebassets\\js\\Script.js"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\kivu.jpg",
+      "PackagePath": "staticwebassets\\kivu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\kivu1.jpeg",
+      "PackagePath": "staticwebassets\\kivu1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\kivu2.jpeg",
+      "PackagePath": "staticwebassets\\kivu2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lake.jpg",
+      "PackagePath": "staticwebassets\\lake.jpg"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\mount1.jpg",
+      "PackagePath": "staticwebassets\\mount1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\photo-1584282479918-1ea22427dc0f.avif",
+      "PackagePath": "staticwebassets\\photo-1584282479918-1ea22427dc0f.avif"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\river.jpg",
+      "PackagePath": "staticwebassets\\river.jpg"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\tea.jpg",
+      "PackagePath": "staticwebassets\\tea.jpg"
+    },
+    {
+      "Id": "C:\\Users\\M NJERIC\\Documents\\Visual Studio 2022\\Environmental_Clreance_MGT\\Environmental_Clreance_MGT\\Environmental-Clearance-Management-System\\wwwroot\\tea2.jpg",
+      "PackagePath": "staticwebassets\\tea2.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Environmental_Clreance_MGT.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Environmental_Clreance_MGT.props",
+      "PackagePath": "build\\Environmental_Clreance_MGT.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Environmental_Clreance_MGT.props",
+      "PackagePath": "buildMultiTargeting\\Environmental_Clreance_MGT.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Environmental_Clreance_MGT.props",
+      "PackagePath": "buildTransitive\\Environmental_Clreance_MGT.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

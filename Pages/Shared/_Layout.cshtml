@@ -1,0 +1,274 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Environmental_Clreance_MGT</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Environmental_Clreance_MGT.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/Style.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/queries.css" asp-append-version="true" />
+</head>
+<body>
+    <header class="header">
+        <a href="#">
+            <img class="logo" alt="Rema" src="/download.jpeg" />
+        </a>
+
+        <nav class="main-nav">
+            <ul class="main-nav-list">
+                <li><a class="main-nav-link" href="#how">Our service</a></li>
+                <li><a class="main-nav-link" href="#testimonials">About us</a></li>
+                <li><a class="main-nav-link" href="#pricing">Contact Us</a></li>
+                <li><a class="main-nav-link" href="/REMA/Applicant/Signup">SignUp</a></li>
+                <li><a class="main-nav-link nav-cta" href="#cta">Login</a></li>
+            </ul>
+        </nav>
+
+        <button class="btn-mobile-nav">
+            <ion-icon class="icon-mobile-nav" name="menu-outline"></ion-icon>
+            <ion-icon class="icon-mobile-nav" name="close-outline"></ion-icon>
+        </button>
+    </header>
+    <main>
+        <section class="section-hero">
+            <div class="hero">
+                <div class="hero-text-box">
+                    <h1 class="heading-primary" id="h1">
+                        Environmental Clearance Management
+                    </h1>
+                    <p class="hero-description">
+                        The mission of REMA is to supervise and monitor environmental management and ensure that issues relating to environment receive attention in all national development plans.
+                    </p>
+                    <a href="#cta" class="btn btn--full margin-right-sm" id="button1">Login</a>
+
+                    <a href="#how" class="btn btn--outline">Learn more &darr;</a>
+                    <div class="delivered-meals">
+                        <div class="delivered-imgs">
+                            
+                        </div>
+                        
+                    </div>
+                </div>
+                <div class="hero-img-box">
+                    
+                </div>
+            </div>
+        </section>
+
+        <section class="section-featured">
+            <div class="container">
+                <h2 class="heading-featured-in">As Our service</h2>
+                <div class="logos">
+                    
+                </div>
+            </div>
+        </section>
+
+        <section class="section-how" id="how">
+            <div class="container">
+                
+                <h2 class="heading-secondary">
+                    Our service
+                </h2>
+            </div>
+
+            <div class="container grid grid--2-cols grid--center-v">
+                <!-- STEP 01 -->
+                <div class="step-text-box" >
+                    <p class="step-number">01</p>
+                    <h3 class="heading-tertiary">
+                        Online Application Licenses
+                    </h3>
+                    <p class="step-description">
+                        Online Application Licenses (Special Authorization to use Plastics, Guidance on Product Disposal, Export and Import Licenses)
+                    </p>
+                </div>
+
+               
+
+                <!-- STEP 02 -->
+                
+                <div class="step-text-box">
+                    <p class="step-number">02</p>
+                    <h3 class="heading-tertiary">Environmental Audit Certificate </h3>
+                    <p class="step-description">
+                        REMA advices and educates the project developers/ entities on how to comply with environmental regulations by  Conducting  environmental audit to…
+                    </p>
+                </div>
+
+                <!-- STEP 03 -->
+                <div class="step-text-box">
+                    <p class="step-number">03</p>
+                    <h3 class="heading-tertiary">Technical Advice</h3>
+                    <p class="step-description">
+                        REMA provides technical support on environment regulatory framework to individuals and entities engaged in natural resource management and environment…
+                    </p>
+                </div>
+                
+            </div>
+        </section>
+
+        
+
+        <section class="section-testimonials" id="testimonials">
+            <div class="testimonials-container">
+                
+                <h2 class="heading-secondary" id="v">Overview</h2>
+
+                <div class="testimonials">
+                    <figure class="testimonial">
+                        
+                        <p class="testimonial-name" id="v">
+                            &mdash; Under supervision of the MMinistry in charge of
+                            environment, Presidential Order N° 033/01 Of 06/05/2022 Governing Rwanda Environment Management Authority, REMA reserves the legal mandate for national environmental protection, conservation, promotion and overall management, including advisory to the government on all matters pertinent to the environment and climate change.
+                        </p>
+                    </figure>
+
+                    
+
+                    <figure class="testimonial">
+                        <h3 id="v">Vision of REMA </h3>
+                        
+                        <p class="testimonial-name" id="v">&mdash; All sectors of the Rwandan Society value and undertake sound environmental management and rational use of natural resources in order to contribute to the national aspirations for sustainable development.</p>
+                    </figure>
+
+                    
+                </div>
+            </div>
+
+            <div class="gallery">
+               
+            </div>
+        </section>
+
+        <section class="section-pricing" id="pricing">
+            <div class="container">
+                
+                <h2 class="heading-secondary">
+                    Contact Us
+                </h2>
+                <div class="container">
+                    <div class="cta" id="contactColor">
+                        <div class="cta-text-box">
+                            <h2 class="heading-secondary">Contact Us for free!</h2>
+                            
+
+                            <form class="cta-form" name="sign-up" netlify>
+                                
+
+                                <div>
+                                    <label for="email">Email address</label>
+                                    <input id="email"
+                                           type="email"
+                                           placeholder="me@example.com"
+                                           name="email"
+                                           required />
+                                </div>
+
+                                <div>
+                                    <label for="Text">Leave your comment</label>
+                                    <textarea placeholder="Leave your comment" id="textArea" required></textarea>
+                                </div>
+
+                                <button class="btn btn--form">Send</button>
+
+                                <!-- <input type="checkbox" />
+                                <input type="number" /> -->
+                            </form>
+                        </div>
+                        <div class="cta-img-box"
+                             role="img"
+                              id="contact"></div>
+                    </div>
+                </div>
+            </div>
+
+            
+
+        </section>
+
+        <section class="section-cta" id="cta">
+            <div class="container">
+                <div class="cta">
+                    <div class="cta-text-box">
+                        <h2 class="heading-secondary">Login</h2>
+                        
+
+                        <form class="cta-form" name="sign-up" netlify>
+                            
+
+                            <div>
+                                <label for="email">Email address</label>
+                                <input id="email"
+                                       type="email"
+                                       placeholder="me@example.com"
+                                       name="email"
+                                       required />
+                            </div>
+
+                            <div>
+                                <label for="password">Password</label>
+                                <input id="password"
+                                       type="password"
+                                       placeholder="password"
+                                       name="password"
+                                       required />
+                            </div>
+
+                            
+
+                            <button class="btn btn--form">Login now</button>
+
+                            <!-- <input type="checkbox" />
+                            <input type="number" /> -->
+                        </form>
+                    </div>
+                    <div class="cta-img-box"
+                         role="img"
+                         aria-label=""></div>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer class="footer">
+        <div class="container grid grid--footer">
+            <div class="logo-col">
+                <a href="#" class="footer-logo">
+                    <img class="logo" alt="Omnifood logo" src="/download.jpeg" />
+                </a>
+
+
+
+                <p class="copyright">
+                    Copyright &copy; <span class="year">2023</span> by Group6, Inc.
+                    All rights reserved.
+                </p>
+            </div>
+
+
+
+
+
+
+
+        </div>
+    </footer>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    
+
+    
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/js/Script.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

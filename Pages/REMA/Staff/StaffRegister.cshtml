@@ -1,0 +1,94 @@
+﻿@page
+@model Environmental_Clreance_MGT.Pages.REMA.Staff.StaffRegisterModel
+
+@{
+   
+    Layout = "";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Staff Registration form</title>
+    <link rel="stylesheet" href="~/css/adminstyle.css" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+    <link rel="stylesheet" href="~/css/StaffReg.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="link-an">
+        &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<h1>ENVIRONMENT CLREANCE MANAGEMENT SYSTEM</h1>
+    </div>
+    <div class="log">
+        <a href="#">
+            <img class="logo" alt="Rema" src="/download.jpeg" />
+        </a>
+    </div>
+    <div class="AA-B">
+        <a class="main-nav-link" asp-page="/Rema/Applicant/adminDash">Home</a>  &nbsp;||&nbsp;
+        <a class="main-nav-link" asp-page="/Rema/Staff/StaffRegister">Resister Worker</a> &nbsp;||&nbsp;
+        <a class="main-nav-link" asp-page="/Rema/Staff/ViewWorker">View Worker</a>
+    </div>
+    <div class="page-bodyj" style="font-size:15px;text-align:center;  margin-top:35px; padding:0px;">
+    <div class="container" style="margin-left:350px;">
+        <h1 class="form-title">Staff Registration</h1>
+        @if (Model.ermessage.Length >0)
+        {
+                <div style="height:30px; background-color:antiquewhite;font-size:17px; color:brown;  font-family:'Cascadia Code';" role="alert">
+                <strong>@Model.ermessage</strong>
+
+            </div>
+        }
+        <form method="POST">
+            <div class="main-user-info">
+                <div class="user-input-box">
+                    <label for="fullName">Full Name</label>
+                    <input type="text"  name="fullName" placeholder="Enter Full Name">
+                </div>
+                <div class="user-input-box">
+                    <label for="email">Email</label>
+                    <input type="email"  name="email" placeholder="Enter Email">
+                </div>
+                <div class="user-input-box">
+                    <label for="Phone">Phone Number</label>
+                    <input type="text"  name="phone" placeholder="Enter Phone Number">
+                </div>
+                <div class="user-input-box">
+                    <label for="Password">Password</label>
+                    <input type="password" name="pwd" placeholder="Enter Password">
+                </div>
+                <div class="user-input-box">
+                    <label for="Password">Comfirm Password</label>
+                    <input type="password" name="confrimpassword" placeholder="Confirm Password">
+                </div>
+               
+                <div class="role-details-box">
+                    <span class="role-title">Role</span>                    
+                    <select class="form-select" name="type" aria-label="Default select example">
+                        <option>Select One</option>
+                        <option value="Reviewer">Reviewer</option>
+                        <option value="Assessor">Assessor</option>
+                        </select>
+                </div>
+                <div class="role-category-box">
+                    <span class="role-title">Education</span>
+                    <select class="form-select" name="level" aria-label="Default select example">
+                        <option >Select One</option>
+                        <option value="Master">Masters</option>
+                        <option value="bachelor">bachelor's</option>
+                        <option value="Phd">PHD</option>
+                    </select>
+                </div>
+            </div>
+                <div class="offset-sm-3 col-sm-3 d-grid" style="margin-left:280px;">
+                <button type="submit" class="btn btn-primary">Submit</button>
+                &nbsp; &nbsp;&nbsp;
+            </div>
+        </form>
+    </div>
+
+    </div>
+</body>
+</html>
